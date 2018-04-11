@@ -8,9 +8,9 @@
 
 * [常用软件下载](https://liushilive.github.io/Software-Downloads/)
 
-* [HTMLReport说明](https://liushilive.github.io/HTMLReport/)
+<!-- * [HTMLReport说明](https://liushilive.github.io/HTMLReport/)
 
-* [HTMLReport测试报告演示](https://liushilive.github.io/HTMLReport/tests/report/test.html)
+* [HTMLReport测试报告演示](https://liushilive.github.io/HTMLReport/tests/report/test.html) -->
 
 
 <liushilive@outlook.com>
