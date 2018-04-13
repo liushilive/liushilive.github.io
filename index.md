@@ -49,13 +49,15 @@
 
 ## 常用资源
 
-* [页面元素模拟](https://liushilive.github.io/html_example/)
+* [页面元素模拟](html_example)
 
-* [Xpath、CSS 定位器学习盛宴](https://liushilive.github.io/css_xpath/)
+* [Xpath、CSS 定位器学习盛宴](css_xpath)
 
-* [Selenium 与 浏览器驱动 下载](https://liushilive.github.io/Selenium_Drivers/)
+* [Selenium 与 浏览器驱动 下载](Selenium_Drivers)
 
-* [常用软件下载](https://liushilive.github.io/Software-Downloads/)
+* [常用软件下载](Software-Downloads)
+
+* [Python 练习题](python_exercise)
 
 <!-- * [HTMLReport说明](https://liushilive.github.io/HTMLReport/) -->
 
