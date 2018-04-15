@@ -49,6 +49,8 @@
 
 ## 常用资源
 
+* [测试演示用 APP](Software/ATApplication-debug.apk)
+
 * [页面元素模拟](html_example)
 
 * [Xpath、CSS 定位器学习盛宴](css_xpath)
