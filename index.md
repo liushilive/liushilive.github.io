@@ -63,6 +63,8 @@
 
 * [Python 练习题](python_exercise)
 
+* [Oracle 练习题](oracle_exercise)
+
 <!-- * [HTMLReport说明](https://liushilive.github.io/HTMLReport/) -->
 
 <!-- * [HTMLReport测试报告演示](https://liushilive.github.io/HTMLReport/tests/report/test.html) -->
