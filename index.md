@@ -59,6 +59,8 @@
 
 * [常用软件下载](Software-Downloads)
 
+* [Python 总结](Python-Summary)
+
 * [Python 练习题](python_exercise)
 
 <!-- * [HTMLReport说明](https://liushilive.github.io/HTMLReport/) -->
