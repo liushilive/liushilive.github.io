@@ -42,7 +42,7 @@
 >* `PageObjects 设计模式`
 >* `兼容 API 接口测试`
 >
->体验`整个框架`搭建过程，理解如何`封装代码`，输出[`企业级测试报告`](report/report/index.html)。
+>体验`整个框架`搭建过程，理解如何`封装代码`，输出[`企业级测试报告`](report/report)。
 >
 
 欢迎你的来信交流：<liushilive@outlook.com>
@@ -63,7 +63,11 @@
 
 * [常用软件下载](Software-Downloads)
 
+* [Python 总结](Python-Summary)
+
 * [Python 练习题](python_exercise)
+
+* [Oracle 练习题](oracle_exercise)
 
 <!-- * [HTMLReport说明](https://liushilive.github.io/HTMLReport/) -->
 
