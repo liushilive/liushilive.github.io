@@ -72,3 +72,7 @@
 <!-- * [HTMLReport说明](https://liushilive.github.io/HTMLReport/) -->
 
 <!-- * [HTMLReport测试报告演示](https://liushilive.github.io/HTMLReport/tests/report/test.html) -->
+
+## 友情链接
+
+* [Requests官方文档](http://cn.python-requests.org/zh_CN/latest/)
