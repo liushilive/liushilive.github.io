@@ -69,6 +69,8 @@
 
 * [Oracle 练习题](oracle_exercise)
 
+* [Linux 相关](linux)
+
 <!-- * [HTMLReport说明](https://liushilive.github.io/HTMLReport/) -->
 
 <!-- * [HTMLReport测试报告演示](https://liushilive.github.io/HTMLReport/tests/report/test.html) -->
