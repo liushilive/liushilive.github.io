@@ -78,3 +78,5 @@
 ## 友情链接
 
 * [Requests官方文档](http://cn.python-requests.org/zh_CN/latest/)
+
+* [接口测试页面](http://httpbin.org/)
