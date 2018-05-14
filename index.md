@@ -96,3 +96,10 @@
 ## 常用资源
 
 * [常用软件下载](Software-Downloads)
+
+<script async src="//dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js">
+</script>
+
+<span id="busuanzi_container_site_pv" style='display:none'>
+    本站总访问量<span id="busuanzi_value_site_pv"></span>次
+</span>
