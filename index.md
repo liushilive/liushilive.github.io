@@ -79,6 +79,10 @@
 
 * [测试演示用 APP](Software/ATApplication-debug.apk)
 
+* [官方微信小程序DEMO](https://developers.weixin.qq.com/miniprogram/dev/demo.html)
+
+* ![微信扫我打开调试](微信调试二维码.png)
+
 ## linux
 
 * [Linux 相关](linux)
