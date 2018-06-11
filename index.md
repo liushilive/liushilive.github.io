@@ -92,7 +92,7 @@
 
 ## Oracle
 
-* [Oracle 练习题](oracle_exercise)
+* [Oracle 相关](oracle_exercise)
 
 ## Python
 
