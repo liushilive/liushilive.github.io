@@ -96,9 +96,9 @@
 
 ## Python
 
-* [Python 总结](Python-Summary)
+<!-- * [Python 总结](Python-Summary) -->
 
-* [Python 练习题](python_exercise)
+* [Python 相关](python_exercise)
 
 ## 常用资源
 
