@@ -4,3 +4,5 @@ encoding: 'utf-8'
 url: 'htts://liushilive.github.io'
 baseurl: '/'
 author: '刘士'
+
+theme: jekyll-theme-cayman
