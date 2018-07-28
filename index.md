@@ -57,7 +57,7 @@
 
 ----
 
-* [中级测试人员 **必知必会**](rjpcs_xtfx)
+* [中级测试人员 **必知必会**](github_exercise_rjpcs_ex)
 
 ## UI 测试
 
@@ -65,7 +65,7 @@
 
 * [Xpath、CSS 定位器学习盛宴](css_xpath)
 
-* [Selenium 与 浏览器驱动 下载](Selenium_Drivers)
+* [Selenium 与 浏览器驱动 下载](github_selenium_drivers)
 
 ## 接口测试
 
@@ -91,17 +91,17 @@
 
 ## linux
 
-* [Linux 相关](linux)
+* [Linux 相关](github_exercise_linux)
 
 ## Oracle
 
-* [Oracle 相关](oracle_exercise)
+* [Oracle 相关](github_exercise_oracle)
 
 ## Python
 
 <!-- * [Python 总结](Python-Summary) -->
 
-* [Python 相关](python_exercise)
+* [Python 相关](github_exercise_python)
 
 ## 常用资源
 
