@@ -2,38 +2,35 @@
 
 ## 欢迎来到我的个人页面
 
-本人先后从事软件开发、测试、需求工程师等岗，涉及到客户需求沟通、技术解决方案撰写、软件编写、协同测试、测试教学等多方面，能及时准确地把握业务需求，具有良好的沟通和协调能力，熟悉测试流程与基本理论，编写有 [`HTMLreport（Python3）`](https://pypi.org/project/HTMLReport/)、`confucian（Java）` 等自动化测试框架。
-
-<!-- 目前任职 [三只啄木鸟信息技术有限公司](http://zmninfo.com) 高阶自动化测试培训讲师 -->
-目前任职 深圳某培训机构 高阶自动化测试培训讲师
+本人先后从事软件开发、测试、需求工程师等岗，涉及到客户需求沟通、技术解决方案撰写、软件编写、协同测试、测试教学等多方面，能及时准确地把握业务需求，具有良好的沟通和协调能力，熟悉测试流程与基本理论，编写有 [`HTMLreport（Python3）`](https://pypi.org/project/HTMLReport/)、[confucian（Java）](https://github.com/liushilive/confucian) 等自动化测试框架。
 
 技术关键字：
 
 * `Linux`
 * `SQL`
-* `Android`
 * `Delphi`
 * `C#`
 * `Java`
 * `Python`
 * `Selenium`
+* `Android`
 * `APPium`
 * `Requests`
 * `Postman`
 * `Jmeter`
 * `Jenkins`
 
-我能帮助你完成以下目标：
+<!-- 我能帮助你完成以下目标：
 
 * 编程语言：`Python`
 * `Web UI` 自动化测试
 * `API 接口` 自动化测试
-* `移动端 UI` 自动化测试
+* `移动端 UI` 自动化测试 -->
 
->你将完成从 `0` 到 `1`
+<!-- >你将完成从 `0` 到 `1`
 >
 >一步步搭建 `自动化测试框架` ，完成以下目标：
->
+> -->
 >* `数据驱动`
 >* `分布式并发测试`
 >* `步级报告`
@@ -46,7 +43,8 @@
 >* `并行 API 接口测试`
 >* `分布式并行 APP UI 测试`
 >
->体验 `整个框架` 搭建过程，理解如何 `封装代码`，输出 [`企业级测试报告`](report/report)。
+<!-- >体验 `整个框架` 搭建过程，理解如何 `封装代码` -->
+>输出 [`企业级测试报告`](report/report)。
 >
 
 ![自动化项目架构](自动化项目架构.png)
@@ -98,8 +96,6 @@
 * [Oracle 相关](github_exercise_oracle)
 
 ## Python
-
-<!-- * [Python 总结](Python-Summary) -->
 
 * [Python 相关](github_exercise_python)
 
