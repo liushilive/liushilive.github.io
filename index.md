@@ -49,11 +49,11 @@
 
 ![自动化项目架构](自动化项目架构.png)
 
-欢迎你的来信交流：<liushilive@outlook.com>
-
 ![扫我收藏到手机随时查看](二维码.png)
 
 ----
+
+本站资料不确保 100% 准确，如有疑问欢迎来信交流：<liushilive@outlook.com>
 
 * [中级测试人员 **必知必会**](github_exercise_rjpcs_ex)
 
