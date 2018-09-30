@@ -57,6 +57,8 @@
 
 * [中级测试人员 **必知必会**](github_exercise_rjpcs_ex)
 
+* [面试](github_exercise_interview)
+
 ## UI 测试
 
 * [页面元素模拟](html_example)
