@@ -57,7 +57,7 @@
 
 * [中级测试人员 **必知必会**](github_exercise_rjpcs_ex)
 
-* [面试](github_exercise_interview)
+* [软件测试面试](github_exercise_interview)
 
 ## UI 测试
 
