@@ -2,7 +2,9 @@
 
 ## 欢迎来到我的个人页面
 
-本人先后从事软件开发、测试、需求工程师等岗，涉及到客户需求沟通、技术解决方案撰写、软件编写、协同测试、测试教学等多方面，能及时准确地把握业务需求，具有良好的沟通和协调能力，熟悉测试流程与基本理论，编写有 [`HTMLreport（Python3）`](https://pypi.org/project/HTMLReport/)、[confucian（Java）](https://github.com/liushilive/confucian) 等自动化测试框架。
+本人先后从事软件开发、测试、需求工程师等岗，涉及到客户需求沟通、技术解决方案撰写、软件编写、协同测试、测试教学等多方面，能及时准确地把握业务需求，具有良好的沟通和协调能力，熟悉测试流程与基本理论，编写有 [`HTMLreport（Python3）`](https://pypi.org/project/HTMLReport/)、[`confucian（Java）`](https://github.com/liushilive/confucian) 等自动化测试框架。
+
+本站文档采用 [`Gitbook`](https://www.gitbook.com/)、[`books-cli`](https://www.npmjs.com/package/books-cli)、[`gitbook-plugin-books`](https://www.npmjs.com/package/gitbook-plugin-books) 撰写。
 
 技术关键字：
 
