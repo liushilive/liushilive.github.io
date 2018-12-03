@@ -85,7 +85,7 @@
 
 * [logcat 命令行工具 官方文档](https://developer.android.com/studio/command-line/logcat?hl=zh-CN)
 
-* [测试演示用 APP](https://github.com/liushilive/liushilive.github.io/releases/download/0.1/ATApplication-debug.apk)
+* [测试演示用 APP](https://github.com/liushilive/liushilive.github.io/releases/)
 
 * [官方微信小程序DEMO](https://developers.weixin.qq.com/miniprogram/dev/demo.html)
 
