@@ -57,6 +57,8 @@
 
 本站资料不确保 100% 准确，如有疑问欢迎来信交流：<liushilive@outlook.com>
 
+>请勿使用 163 邮箱来信，163 邮箱容易被纳入**垃圾邮件**中！！！
+
 * [中级测试人员 **必知必会**](github_exercise_rjpcs_ex)
 
 * [软件测试面试](github_exercise_interview)
