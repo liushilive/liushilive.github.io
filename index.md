@@ -1,6 +1,4 @@
-# 我叫 **_刘士_** ，
-
-## 欢迎来到我的个人页面
+# 欢迎来到我的个人页面
 
 本人先后从事软件开发、测试、需求工程师等岗，涉及到客户需求沟通、技术解决方案撰写、软件编写、协同测试、测试教学等多方面，能及时准确地把握业务需求，具有良好的沟通和协调能力，熟悉测试流程与基本理论，编写有 [`HTMLreport（Python3）`](https://pypi.org/project/HTMLReport/)、[`confucian（Java）`](https://github.com/liushilive/confucian) 等自动化测试框架。
 
@@ -8,19 +6,7 @@
 
 本人技术关键字：
 
-* `Linux`
-* `SQL`
-* `Delphi`
-* `C#`
-* `Java`
-* `Python`
-* `Selenium`
-* `Android`
-* `APPium`
-* `Requests`
-* `Postman`
-* `Jmeter`
-* `Jenkins`
+`Linux` `SQL` `Delphi` `C#` `Java` `Python` `Selenium` `Android` `APPium` `Requests` `Postman` `Jmeter` `Jenkins`
 
 <!-- 我能帮助你完成以下目标：
 
@@ -106,10 +92,15 @@
 
 * [常用软件下载](Software-Downloads)
 
+## 创作不易，欢迎打赏
+
+![微信](微信.png)
+![支付宝](支付宝.jpg)
+
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js">
 </script>
 
 <span id="busuanzi_container_site_uv" style='display:none'>
-本站总访问量<span id="busuanzi_value_site_pv"></span>次<br/>
-本站访客数<span id="busuanzi_value_site_uv"></span>人次
+本站总访问量 <span id="busuanzi_value_site_pv"></span> 次<br/>
+本站访客数 <span id="busuanzi_value_site_uv"></span> 人次
 </span>
