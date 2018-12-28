@@ -94,9 +94,7 @@
 
 ## 创作不易，欢迎打赏
 
-<img src="微信.png" style="max-width: 45%;">
-
-<img src="支付宝.jpg" style="max-width: 45%;">
+<img src="微信.png" style="max-width: 45%;"> <img src="支付宝.jpg" style="max-width: 45%;">
 
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js">
 </script>
