@@ -92,7 +92,7 @@
 
 * [常用软件下载](Software-Downloads)
 
-## 创作不易，欢迎打赏
+<!-- ## 创作不易，欢迎打赏 -->
 
 <!-- <img src="微信.png" style="max-width: 45%;"> <img src="支付宝.jpg" style="max-width: 45%;"> -->
 
