@@ -36,7 +36,7 @@
 
 ----
 
-<!-- 本站资料不确保 100% 准确，如有疑问欢迎来信交流：<liushilive@outlook.com> -->
+>本站资料不确保 100% 准确，如有疑问欢迎来信交流：<liushilive@outlook.com>
 
 <!-- >请勿使用 163 邮箱来信，163 邮箱容易被纳入**垃圾邮件**中！！！ -->
 
@@ -94,7 +94,7 @@
 
 <!-- ## 创作不易，欢迎打赏 -->
 
-<!-- <img src="微信.png" style="max-width: 45%;"> <img src="支付宝.jpg" style="max-width: 45%;"> -->
+<!-- <img src="微信。png" style="max-width: 45%;"> <img src="支付宝。jpg" style="max-width: 45%;"> -->
 
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js">
 </script>
