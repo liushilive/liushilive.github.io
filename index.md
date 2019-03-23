@@ -1,10 +1,12 @@
 # 欢迎来到我的个人页面
 
->本页面建议使用 Chrome 浏览器浏览
+>本页面建议使用 `Chrome` 浏览器浏览
 
 本人先后从事软件开发、测试、需求工程师等岗，涉及到客户需求沟通、技术解决方案撰写、软件编写、协同测试、测试教学等多方面，能及时准确地把握业务需求，具有良好的沟通和协调能力，熟悉测试流程与基本理论，编写有 [`HTMLreport（Python3）`](https://pypi.org/project/HTMLReport/)、[`confucian（Java）`](https://github.com/liushilive/confucian) 等自动化测试框架。
 
->本站文档采用 [`Gitbook`](https://www.gitbook.com/)、[`books-cli`](https://www.npmjs.com/package/books-cli)![版本](https://img.shields.io/npm/v/books-cli.svg)![下载量](https://img.shields.io/npm/dt/books-cli.svg)、[`gitbook-plugin-books`](https://www.npmjs.com/package/gitbook-plugin-books)![版本](https://img.shields.io/npm/v/gitbook-plugin-books.svg)![下载量](https://img.shields.io/npm/dt/gitbook-plugin-books.svg) 撰写。所用插件均有本人撰写。
+本站文档采用 [`Gitbook`](https://www.gitbook.com/) + [`books-cli`](https://www.npmjs.com/package/books-cli)![版本](https://img.shields.io/npm/v/books-cli.svg)![下载量](https://img.shields.io/npm/dt/books-cli.svg) + [`gitbook-plugin-books`](https://www.npmjs.com/package/gitbook-plugin-books)![版本](https://img.shields.io/npm/v/gitbook-plugin-books.svg)![下载量](https://img.shields.io/npm/dt/gitbook-plugin-books.svg) 生成。
+
+>所用插件均由本人撰写。
 
 本人技术关键字：
 
@@ -30,7 +32,7 @@
 * `CI 集成`
 * `并行 API 接口测试`
 * `分布式并行 APP UI 测试`
-* 输出 [`企业级测试报告`](report/report)。
+* 输出 [企业级测试报告](report/report)。
 
 ![自动化项目架构](自动化项目架构.png)
 
@@ -44,9 +46,10 @@
 
 ## 知识归档
 
-* [中级测试人员 **必知必会**](github_exercise_rjpcs_ex)
-
 * [软件测试面试](github_exercise_interview)
+
+* [中级测试人员 **必知必会**](github_exercise_rjpcs_ex)
+* 【测试字典 - 构建中、敬请期待】
 
 ## UI 测试
 
@@ -74,7 +77,7 @@
 
 * [测试演示用 APP](https://github.com/liushilive/liushilive.github.io/releases/)
 
-* [官方微信小程序DEMO](https://developers.weixin.qq.com/miniprogram/dev/demo.html)
+<!-- * [官方微信小程序DEMO](https://developers.weixin.qq.com/miniprogram/dev/demo.html) -->
 
 <!-- * ![微信扫我打开调试](微信调试二维码.png) -->
 
