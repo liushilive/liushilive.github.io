@@ -36,6 +36,8 @@
 
 ![自动化项目架构](自动化项目架构.png)
 
+![Selenium封装](Selenium封装.png)
+
 ![扫我收藏到手机随时查看](二维码.png)
 
 ----
@@ -49,6 +51,7 @@
 * [软件测试面试](github_exercise_interview)
 
 * [中级测试人员 **必知必会**](github_exercise_rjpcs_ex)
+
 * 【测试字典 - 构建中、敬请期待】
 
 ## UI 测试
@@ -101,8 +104,7 @@
 
 <!-- <img src="微信。png" style="max-width: 45%;"> <img src="支付宝。jpg" style="max-width: 45%;"> -->
 
-<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js">
-</script>
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 
 <span id="busuanzi_container_site_uv" style='display:none'>
 本站总访问量 <span id="busuanzi_value_site_pv"></span> 次<br/>
