@@ -112,7 +112,7 @@
 
 <!-- * [ADB 命令官方文档](https://developer.android.com/studio/command-line/adb?hl=zh-CN) -->
 
-* [Monkey 官方文档](https://developer.android.com/studio/test/monkey)
+<!-- * [Monkey 官方文档](https://developer.android.com/studio/test/monkey) -->
 
 <!-- * [logcat 命令行工具 官方文档](https://developer.android.com/studio/command-line/logcat?hl=zh-CN) -->
 
