@@ -76,7 +76,7 @@
   * 微信：xuying981380319
   <img src="xuying_wx.png" height="75px" />
 
-如需建议本站信息完善与建议，请 Email：<liushilive@outlook.com>
+如需与本人联系，或对本站进行完善与建议，请 Email：<liushilive@outlook.com>
 
 <!-- >请勿使用 163 邮箱来信，163 邮箱容易被纳入**垃圾邮件**中！！！ -->
 
