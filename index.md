@@ -69,10 +69,12 @@
 本人目前任职测试讲师一职，如有需了解课程以及相关信息请咨询：
 
 * 金老师
-  * QQ：<a href="tencent://message/?uin=1007536640" target="_blank">1007536640</a>
-  * 微信：jinyf0821 <img src="jinyufang_wx.png" height="75px" />
+  * QQ：1007536640
+  * 微信：jinyf0821
+  <img src="jinyufang_wx.png" height="75px" />
 * 徐老师
-  * 微信：xuying981380319 <img src="xuying_wx.png" height="75px" />
+  * 微信：xuying981380319
+  <img src="xuying_wx.png" height="75px" />
 
 如需建议本站信息完善与建议，请 Email：<liushilive@outlook.com>
 
