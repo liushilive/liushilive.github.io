@@ -23,7 +23,7 @@
 * `API 接口` 自动化测试
 * `移动端 UI` 自动化测试 -->
 
-## `自动化测试框架`目标：
+## 自动化测试框架目标
 
 * `数据驱动`
 * `分布式并发测试`
@@ -42,7 +42,7 @@
 
 ![Selenium封装](Selenium封装.png)
 
-![扫我收藏到手机随时查看](二维码.png)
+<img src="二维码.png" height="75px" />
 
 ----
 
@@ -62,7 +62,19 @@
 
 如果本材料出现任何纰漏与错误，请指导我修正。
 
-Email：<liushilive@outlook.com>
+## 联系方式
+
+点击链接加入群聊 [测试之家/py/se/app/web/api](https://jq.qq.com/?_wv=1027&k=5ieJ4c8) 群号：559552400
+
+本人目前任职测试讲师一职，如有需了解课程以及相关信息请咨询：
+
+* 金老师
+  * QQ：<a href="tencent://message/?uin=1007536640" target="_blank">1007536640</a>
+  * 微信：jinyf0821 <img src="jinyufang_wx.png" height="75px" />
+* 徐老师
+  * 微信：xuying981380319 <img src="xuying_wx.png" height="75px" />
+
+如需建议本站信息完善与建议，请 Email：<liushilive@outlook.com>
 
 <!-- >请勿使用 163 邮箱来信，163 邮箱容易被纳入**垃圾邮件**中！！！ -->
 
