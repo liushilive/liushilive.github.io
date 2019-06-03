@@ -150,3 +150,13 @@
 本站总访问量 <span id="busuanzi_value_site_pv"></span> 次<br/>
 本站访客数 <span id="busuanzi_value_site_uv"></span> 人次
 </span>
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?921ac157b25b6c9fd562a97abf2806a7";
+  var s = document.getElementsByTagName("script")[0];
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
