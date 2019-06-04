@@ -1,3 +1,5 @@
+<meta name="msvalidate.01" content="7FA42C97DEEE3F59D26D4DD8F874D2FA" />
+
 # 欢迎来到我的个人页面
 
 >本页面建议使用 `Chrome` 浏览器浏览
