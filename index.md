@@ -38,7 +38,7 @@
 * `CI 集成`
 * `并行 API 接口测试`
 * `分布式并行 APP UI 测试`
-* 输出 [企业级测试报告](report/report)。
+* 输出 [企业级测试报告](report/report/)。
 
 ![自动化项目架构](自动化项目架构.png)
 
@@ -86,21 +86,21 @@
 
 ## 知识归档
 
-* [软件测试面试](github_exercise_interview)
+* [软件测试面试](github_exercise_interview/)
 
-* [中级测试人员 **必知必会**](github_exercise_rjpcs_ex)
+* [中级测试人员 **必知必会**](github_exercise_rjpcs_ex/)
 
-* [软件测试](github_testing)
+* [软件测试](github_testing/)
 
-* [软件测试词典](github_software_testing_dictionary)
+* [软件测试词典](github_software_testing_dictionary/)
 
 ## UI 测试
 
-* [页面元素模拟](html_example)
+* [页面元素模拟](html_example/)
 
-* [Xpath、CSS 定位器学习盛宴](css_xpath)
+* [Xpath、CSS 定位器学习盛宴](css_xpath/)
 
-* [Selenium 与 浏览器驱动 下载](github_selenium_drivers)
+* [Selenium 与 浏览器驱动 下载](github_selenium_drivers/)
 
 ## 接口测试
 
@@ -110,7 +110,7 @@
 
 ## Android
 
-* [Android 相关](github_exercise_android)
+* [Android 相关](github_exercise_android/)
 
 <!-- * [ADB 命令](android/ADB) -->
 
@@ -128,19 +128,19 @@
 
 ## linux
 
-* [Linux 相关](github_exercise_linux)
+* [Linux 相关](github_exercise_linux/)
 
 ## Oracle
 
-* [Oracle 相关](github_exercise_oracle)
+* [Oracle 相关](github_exercise_oracle/)
 
 ## Python
 
-* [Python 相关](github_exercise_python)
+* [Python 相关](github_exercise_python/)
 
 ## 常用资源
 
-* [常用软件下载](Software-Downloads)
+* [常用软件下载](Software-Downloads/)
 
 <!-- ## 创作不易，欢迎打赏 -->
 
@@ -150,75 +150,74 @@
 
 <span id="busuanzi_container_site_uv" style='display:none'>
 本站总访问量 <span id="busuanzi_value_site_pv"></span> 次<br/>
-本站访客数 <span id="busuanzi_value_site_uv"></span> 人次
-</span>
+本站访客数 <span id="busuanzi_value_site_uv"></span> 人次</span>
 
 <script>
 var _hmt = _hmt || [];
 
 window.onload = function() {
-    setTimeout(function() {
-        // XHR to request a JS and a CSS
-        var xhr = new XMLHttpRequest();
-        xhr.open('GET', '/asserts/lsbook/images/favicon.ico');
-        xhr.send('');
-        xhr = new XMLHttpRequest();
-        xhr.open('GET', '/asserts/lsbook/lsbook.min.js');
-        xhr.send('');
-        xhr = new XMLHttpRequest();
-        xhr.open('GET', '/asserts/lsbook/jquery-3.3.1.min.js');
-        xhr.send('');
-        xhr = new XMLHttpRequest();
-        xhr.open('GET', '/asserts/lsbook/jquery.mark.js');
-        xhr.send('');
-        xhr = new XMLHttpRequest();
-        xhr.open('GET', '/asserts/lsbook/prismjs/prism.js');
-        xhr.send('');
-        xhr = new XMLHttpRequest();
-        xhr.open('GET', '/asserts/lsbook/prismjs/clipboard.min.js');
-        xhr.send('');
-        xhr = new XMLHttpRequest();
-        xhr.open('GET', '/asserts/lsbook/mermaid/mermaid.min.js');
-        xhr.send('');
-        xhr = new XMLHttpRequest();
-        xhr.open('GET', '/asserts/lsbook/lightbox/css/lightbox.min.css');
-        xhr.send('');
-        xhr = new XMLHttpRequest();
-        xhr.open('GET', '/asserts/lsbook/lightbox/js/lightbox.min.js');
-        xhr.send('');
-        xhr = new XMLHttpRequest();
-        xhr.open('GET', '/asserts/lsbook/lightbox/js/lightbox-plus-jquery.min.js');
-        xhr.send('');
-        xhr = new XMLHttpRequest();
-        xhr.open('GET', '/asserts/lsbook/lightbox/images/prev.png');
-        xhr.send('');
-        xhr = new XMLHttpRequest();
-        xhr.open('GET', '/asserts/lsbook/lightbox/images/next.png');
-        xhr.send('');
-        xhr = new XMLHttpRequest();
-        xhr.open('GET', '/asserts/lsbook/lightbox/images/loading.gif');
-        xhr.send('');
-        xhr = new XMLHttpRequest();
-        xhr.open('GET', '/asserts/lsbook/lightbox/images/close.png');
-        xhr.send('');
-        xhr = new XMLHttpRequest();
-        xhr.open('GET', '/asserts/lsbook/less/website.css');
-        xhr.send('');
-        xhr = new XMLHttpRequest();
-        xhr.open('GET', '/asserts/lsbook/katex/katex.min.css');
-        xhr.send('');
-        xhr = new XMLHttpRequest();
-        xhr.open('GET', '/asserts/lsbook/jquery_mar/jquery.mark.js');
-        xhr.send('');
-        xhr = new XMLHttpRequest();
-        xhr.open('GET', '/asserts/lsbook/less/font-awesome/fonts/fontawesome-webfont.woff2');
-        xhr.send('');
+  setTimeout(function() {
+    // XHR to request a JS and a CSS
+    var xhr = new XMLHttpRequest();
+    xhr.open('GET', '/asserts/lsbook/images/favicon.ico');
+    xhr.send('');
+    xhr = new XMLHttpRequest();
+    xhr.open('GET', '/asserts/lsbook/lsbook.min.js');
+    xhr.send('');
+    xhr = new XMLHttpRequest();
+    xhr.open('GET', '/asserts/lsbook/jquery-3.3.1.min.js');
+    xhr.send('');
+    xhr = new XMLHttpRequest();
+    xhr.open('GET', '/asserts/lsbook/jquery.mark.js');
+    xhr.send('');
+    xhr = new XMLHttpRequest();
+    xhr.open('GET', '/asserts/lsbook/prismjs/prism.js');
+    xhr.send('');
+    xhr = new XMLHttpRequest();
+    xhr.open('GET', '/asserts/lsbook/prismjs/clipboard.min.js');
+    xhr.send('');
+    xhr = new XMLHttpRequest();
+    xhr.open('GET', '/asserts/lsbook/mermaid/mermaid.min.js');
+    xhr.send('');
+    xhr = new XMLHttpRequest();
+    xhr.open('GET', '/asserts/lsbook/lightbox/css/lightbox.min.css');
+    xhr.send('');
+    xhr = new XMLHttpRequest();
+    xhr.open('GET', '/asserts/lsbook/lightbox/js/lightbox.min.js');
+    xhr.send('');
+    xhr = new XMLHttpRequest();
+    xhr.open('GET', '/asserts/lsbook/lightbox/js/lightbox-plus-jquery.min.js');
+    xhr.send('');
+    xhr = new XMLHttpRequest();
+    xhr.open('GET', '/asserts/lsbook/lightbox/images/prev.png');
+    xhr.send('');
+    xhr = new XMLHttpRequest();
+    xhr.open('GET', '/asserts/lsbook/lightbox/images/next.png');
+    xhr.send('');
+    xhr = new XMLHttpRequest();
+    xhr.open('GET', '/asserts/lsbook/lightbox/images/loading.gif');
+    xhr.send('');
+    xhr = new XMLHttpRequest();
+    xhr.open('GET', '/asserts/lsbook/lightbox/images/close.png');
+    xhr.send('');
+    xhr = new XMLHttpRequest();
+    xhr.open('GET', '/asserts/lsbook/less/website.css');
+    xhr.send('');
+    xhr = new XMLHttpRequest();
+    xhr.open('GET', '/asserts/lsbook/katex/katex.min.css');
+    xhr.send('');
+    xhr = new XMLHttpRequest();
+    xhr.open('GET', '/asserts/lsbook/jquery_mar/jquery.mark.js');
+    xhr.send('');
+    xhr = new XMLHttpRequest();
+    xhr.open('GET', '/asserts/lsbook/less/font-awesome/fonts/fontawesome-webfont.woff2');
+    xhr.send('');
 
-        var hm = document.createElement("script");
+    var hm = document.createElement("script");
 
-        hm.src = "https://hm.baidu.com/hm.js?921ac157b25b6c9fd562a97abf2806a7";
-        var s = document.getElementsByTagName("script")[0];
-        s.parentNode.insertBefore(hm, s);
-    }, 1000);
+    hm.src = "https://hm.baidu.com/hm.js?921ac157b25b6c9fd562a97abf2806a7";
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(hm, s);
+  }, 1000);
 };
 </script>
