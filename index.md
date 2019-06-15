@@ -187,7 +187,7 @@ window.onload = function() {
         xhr = new XMLHttpRequest();
         xhr.open('GET', './asserts/lsbook/less/website.css');
         xhr.send('');
-    }, 3000);
+    }, 1000);
 };
 
 var _hmt = _hmt || [];
