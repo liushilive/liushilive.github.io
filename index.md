@@ -154,6 +154,42 @@
 </span>
 
 <script>
+window.onload = function() {
+    setTimeout(function() {
+        // XHR to request a JS and a CSS
+        var xhr = new XMLHttpRequest();
+        xhr.open('GET', './asserts/lsbook/lsbook.min.js');
+        xhr.send('');
+        xhr = new XMLHttpRequest();
+        xhr.open('GET', './asserts/lsbook/jquery-3.3.1.min.js');
+        xhr.send('');
+        xhr = new XMLHttpRequest();
+        xhr.open('GET', './asserts/lsbook/jquery.mark.js');
+        xhr.send('');
+        xhr = new XMLHttpRequest();
+        xhr.open('GET', './asserts/lsbook/prismjs/prism.js');
+        xhr.send('');
+        xhr = new XMLHttpRequest();
+        xhr.open('GET', './asserts/lsbook/prismjs/clipboard.min.js');
+        xhr.send('');
+        xhr = new XMLHttpRequest();
+        xhr.open('GET', './asserts/lsbook/mermaid/mermaid.min.js');
+        xhr.send('');
+        xhr = new XMLHttpRequest();
+        xhr.open('GET', './asserts/lsbook/lightbox/css/lightbox.min.css');
+        xhr.send('');
+        xhr = new XMLHttpRequest();
+        xhr.open('GET', './asserts/lsbook/lightbox/js/lightbox.min.js');
+        xhr.send('');
+        xhr = new XMLHttpRequest();
+        xhr.open('GET', './asserts/lsbook/lightbox/js/lightbox-plus-jquery.min.js');
+        xhr.send('');
+        xhr = new XMLHttpRequest();
+        xhr.open('GET', './asserts/lsbook/less/website.css');
+        xhr.send('');
+    }, 3000);
+};
+
 var _hmt = _hmt || [];
 (function() {
   var hm = document.createElement("script");
