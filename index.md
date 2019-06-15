@@ -207,6 +207,15 @@ window.onload = function() {
     xhr.open('GET', '/asserts/lsbook/katex/katex.min.css');
     xhr.send('');
     xhr = new XMLHttpRequest();
+    xhr.open('GET', '/asserts/lsbook/katex/katex.min.js');
+    xhr.send('');
+    xhr = new XMLHttpRequest();
+    xhr.open('GET', '/asserts/lsbook/katex/contrib/auto-render.min.js');
+    xhr.send('');
+    xhr = new XMLHttpRequest();
+    xhr.open('GET', '/asserts/lsbook/katex/fonts/KaTeX_Main-Regular.woff2');
+    xhr.send('');
+    xhr = new XMLHttpRequest();
     xhr.open('GET', '/asserts/lsbook/jquery_mar/jquery.mark.js');
     xhr.send('');
     xhr = new XMLHttpRequest();
