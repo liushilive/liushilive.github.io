@@ -1,3 +1,5 @@
+Sitemap: https://liushilive.github.io/sitemap.xml
+
 User-agent: *
 Disallow:
 Disallow: /asserts/
