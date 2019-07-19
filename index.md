@@ -66,9 +66,9 @@
 
 ## 联系方式
 
-点击链接加入群聊 [测试之家/py/se/app/web/api](https://jq.qq.com/?_wv=1027&k=5ieJ4c8) 群号：559552400
+<!-- 点击链接加入群聊 [测试之家/py/se/app/web/api](https://jq.qq.com/?_wv=1027&k=5ieJ4c8) 群号：559552400 -->
 
-本人目前任职测试讲师一职，如有需了解课程以及相关信息请咨询：
+<!-- 本人目前任职测试讲师一职，如有需了解课程以及相关信息请咨询：
 
 * 金老师
   * QQ：[1007536640](http://wpa.qq.com/msgrd?v=3&amp;uin=1007536640&amp;site=qq&amp;menu=yes)
@@ -78,7 +78,7 @@
 * 徐老师
   * 微信：xuying981380319
 
-  <img src="xuying_wx.png" height="75px" />
+  <img src="xuying_wx.png" height="75px" /> -->
 
 如需与本人联系，或对本站进行完善与建议，请 Email：<liushilive@outlook.com>
 
