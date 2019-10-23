@@ -16,7 +16,7 @@
 
 本人技术关键字：
 
-`Linux` `SQL` `Delphi` `C#` `Java` `Python` `Selenium` `Android` `APPium` `Requests` `Postman` `Jmeter` `Jenkins`
+`Linux` `SQL` `Delphi` `C#` `Java` `Python` `Selenium` `Android` `Appium` `Requests` `Postman` `Jmeter` `Jenkins`
 
 <!-- 我能帮助你完成以下目标：
 
