@@ -6,7 +6,7 @@
 
 本人先后从事软件开发、测试、需求工程师等岗，涉及到客户需求沟通、技术解决方案撰写、软件编写、协同测试、测试教学等多方面，能及时准确地把握业务需求，具有良好的沟通和协调能力，熟悉测试流程与基本理论，编写有 [`HTMLreport（Python3）`](https://pypi.org/project/HTMLReport/)、[`confucian（Java）`](https://github.com/liushilive/confucian) 等自动化测试框架。
 
-~~本站文档采用 [`Gitbook`](https://www.gitbook.com/) + [`books-cli`](https://www.npmjs.com/package/books-cli)![版本](https://img.shields.io/npm/v/books-cli.svg)![下载量](https://img.shields.io/npm/dt/books-cli.svg) + [`gitbook-plugin-books`](https://www.npmjs.com/package/gitbook-plugin-books)![版本](https://img.shields.io/npm/v/gitbook-plugin-books.svg)![下载量](https://img.shields.io/npm/dt/gitbook-plugin-books.svg) 生成。所用插件均由本人撰写。~~
+~~本站文档采用 [`Gitbook`](https://www.gitbook.com/) + [`books-cli`](https://www.npmjs.com/package/books-cli) + [`gitbook-plugin-books`](https://www.npmjs.com/package/gitbook-plugin-books) 生成。所用插件均由本人撰写。~~
 
 >由于 `Gitbook` 官方业务转型，暂停维护 `Gitbook-cli`，目前构建一个 `100` 页的页面大约需要四十分钟。`Gitbook` 基于 `Nodejs` 单线程构建太慢了！
 >
@@ -221,6 +221,6 @@ window.onload = function() {
     xhr.open('GET', '/asserts/lsbook/less/font-awesome/fonts/fontawesome-webfont.woff2');
     xhr.send('');
 
-  }, 1000);
+  }, 2000);
 };
 </script>
