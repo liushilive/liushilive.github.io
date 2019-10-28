@@ -62,12 +62,12 @@
         <div class="row">
           <div class="col">
             <div class="row">
-              <div class="col"><img src="自动化项目架构.png" alt="自动化项目架构" width="100%"></div>
+              <div class="col"><img class="my-photo" data-src="自动化项目架构.png" width="100%"></div>
               <div class="w-100"></div>
-              <div class="col"><img src="二维码.png" max-width="100%"></div>
+              <div class="col"><img class="my-photo" data-src="二维码.png" max-width="100%"></div>
             </div>
           </div>
-          <div class="col"><img src="Selenium封装.png" alt="Selenium封装" width="100%"></div>
+          <div class="col"><img class="my-photo" data-src="Selenium封装.png" width="100%"></div>
         </div>
 
       </div>
@@ -111,7 +111,8 @@
       <div class="card-body">
         <div class="list-group">
           <a href="github_exercise_interview" target="_blank" class="list-group-item list-group-item-action">软件测试面试</a>
-          <a href="github_exercise_rjpcs_ex" target="_blank" class="list-group-item list-group-item-action">中级测试人员<strong>必知必会</strong></a>
+          <a href="github_exercise_rjpcs_ex" target="_blank"
+            class="list-group-item list-group-item-action">中级测试人员<strong>必知必会</strong></a>
           <a href="github_testing" target="_blank" class="list-group-item list-group-item-action">软件测试</a>
           <a href="" target="_blank" class="list-group-item list-group-item-action">软件测试词典</a>
         </div>
@@ -124,7 +125,8 @@
         <div class="list-group">
           <a href="html_example" target="_blank" class="list-group-item list-group-item-action">页面元素模拟</a>
           <a href="css_xpath" target="_blank" class="list-group-item list-group-item-action">Xpath、CSS 定位器学习盛宴</a>
-          <a href="github_selenium_drivers" target="_blank" class="list-group-item list-group-item-action">Selenium 与 浏览器驱动 下载</a>
+          <a href="github_selenium_drivers" target="_blank" class="list-group-item list-group-item-action">Selenium 与
+            浏览器驱动 下载</a>
         </div>
       </div>
     </div>
@@ -133,7 +135,8 @@
       <div class="card-header">接口测试</div>
       <div class="card-body">
         <div class="list-group">
-          <a href="http://cn.python-requests.org/zh_CN/latest/" target="_blank" class="list-group-item list-group-item-action">Requests官方文档</a>
+          <a href="http://cn.python-requests.org/zh_CN/latest/" target="_blank"
+            class="list-group-item list-group-item-action">Requests官方文档</a>
           <a href="http://httpbin.org/" target="_blank" class="list-group-item list-group-item-action">接口测试页面</a>
         </div>
       </div>
@@ -143,7 +146,8 @@
       <div class="card-header">Android</div>
       <div class="card-body">
         <div class="list-group">
-          <a href="github_exercise_android" target="_blank" class="list-group-item list-group-item-action">Android 相关</a>
+          <a href="github_exercise_android" target="_blank" class="list-group-item list-group-item-action">Android
+            相关</a>
           <a href="https://github.com/liushilive/liushilive.github.io/releases/latest" target="_blank"
             class="list-group-item list-group-item-action">测试演示用 APP</a>
         </div>
@@ -206,8 +210,54 @@
   <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 
   <script>
+    function isInSight(el) {
+      const bound = el.getBoundingClientRect();
+      const clientHeight = window.innerHeight;
+      return bound.top <= clientHeight + 100;
+    }
+
+    let index = 0;
+    function checkImgs() {
+      const imgs = document.querySelectorAll('.my-photo');
+      for (let i = index; i < imgs.length; i++) {
+        if (isInSight(imgs[i])) {
+          loadImg(imgs[i]);
+          index = i;
+        }
+      }
+    }
+
+    function loadImg(el) {
+      if (!el.src) {
+        const source = el.dataset.src;
+        el.src = source;
+      }
+    }
+
+    function throttle(fn, mustRun = 500) {
+      const timer = null;
+      let previous = null;
+      return function () {
+        const now = new Date();
+        const context = this;
+        const args = arguments;
+        if (!previous) {
+          previous = now;
+        }
+        const remaining = now - previous;
+        if (mustRun && remaining >= mustRun) {
+          fn.apply(context, args);
+          previous = now;
+        }
+      }
+    }
+
     window.onload = function () {
+      checkImgs();
+      window.onscroll = throttle(checkImgs);
+
       setTimeout(function () {
+
         // XHR to request a JS and a CSS
         var xhr = new XMLHttpRequest();
         xhr.open('GET', '/asserts/lsbook/images/favicon.ico');
