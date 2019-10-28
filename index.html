@@ -214,10 +214,19 @@
         }
       });
     }
-
+    function prefetchLink() {
+      document.querySelectorAll('a').forEach(ele => {
+        if (ele.href.search("liushilive.github.io") != -1) {
+          var _link = document.createElement("link");
+          _link.setAttribute("rel", "prefetch");
+          _link.setAttribute("href", ele.href);
+          document.getElementsByTagName("head")[0].appendChild(_link);
+        }
+      });
+    }
     window.onload = function () {
       lazyloadImgs();
-
+      prefetchLink();
       setTimeout(function () {
         // XHR to request a JS and a CSS
         var xhr = new XMLHttpRequest();
