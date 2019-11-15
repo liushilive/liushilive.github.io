@@ -13,6 +13,8 @@ after_success:
   - git add .
   - git commit -m "Updated By Travis-CI With Build $TRAVIS_BUILD_NUMBER For Github Pages"
   - git push --force --quiet "https://${travis_ci_tokens_gitee}@${REF}" master
+  - git push --force --quiet "https://059e9d0234a84836bd67e51baae2cd65@gitee.com/liushilive/liushilive.git" master
+
 branches:
   only:
     - master
