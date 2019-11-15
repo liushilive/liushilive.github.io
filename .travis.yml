@@ -1,0 +1,18 @@
+dist: xenial
+# command to run tests
+script:
+  - ls -l
+after_success:
+  - ls -al
+  - git init
+  - git add .
+  - git commit -m "Updated By Travis-CI With Build $TRAVIS_BUILD_NUMBER For Github Pages"
+  - git push --force --quiet "https://${travis_ci_tokens_gitee}@${REF}" master:gh-pages
+branches:
+  only:
+    - master
+env:
+  global:
+    - REF=gitee.com:liushilive/liushilive.git
+before_install:
+- export TZ='Asia/Shanghai'
