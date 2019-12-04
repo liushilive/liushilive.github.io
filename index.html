@@ -257,12 +257,12 @@
     }
     function prefetchLink() {
       document.querySelectorAll('a').forEach(ele => {
-        if (ele.href.search("liushilive.github.io") != -1) {
+        if (ele.href.search("//liushilive.github.io") != -1) {
           var _link = document.createElement("link");
           _link.setAttribute("rel", "prefetch");
           _link.setAttribute("href", ele.href);
           document.getElementsByTagName("head")[0].appendChild(_link);
-        } else if (ele.href.search("liushilive.gitee.io") != -1) {
+        } else if (ele.href.search("//liushilive.gitee.io") != -1) {
           var _link = document.createElement("link");
           _link.setAttribute("rel", "prefetch");
           _link.setAttribute("href", ele.href);
