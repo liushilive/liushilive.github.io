@@ -217,7 +217,8 @@
       <div class="card-header">性能测试</div>
       <div class="card-body">
         <div class="list-group">
-          <a href="github_exercise_performance_testing/" target="_blank" class="list-group-item list-group-item-action">性能测试相关</a>
+          <a href="github_exercise_performance_testing/" target="_blank"
+            class="list-group-item list-group-item-action">性能测试相关</a>
         </div>
       </div>
     </div>
@@ -339,6 +340,18 @@
         xhr.open('GET', '/asserts/lsbook/less/font-awesome/fonts/fontawesome-webfont.woff2');
         xhr.send('');
 
+        (function () {
+          var bp = document.createElement('script');
+          var curProtocol = window.location.protocol.split(':')[0];
+          if (curProtocol === 'https') {
+            bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+          }
+          else {
+            bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+          }
+          var s = document.getElementsByTagName("script")[0];
+          s.parentNode.insertBefore(bp, s);
+        })();
       }, 2000);
     };
   </script>
