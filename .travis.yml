@@ -7,12 +7,14 @@ install:
 # command to run tests
 script:
   - ls -al
+addons:
+  ssh_known_hosts:
+  - gitee.com
 after_success:
   - git init
   - git add .
   - git commit -m "Updated By Travis-CI With Build ${TRAVIS_BUILD_NUMBER} For Github Pages"
-  - git push --force --quiet "https://liushilive:${travis_ci_tokens_gitee}@${REF}" master:gh-pages
-
+  - git push --force "https://liushilive:${travis_ci_password_gitee}@${REF}" master:master
 branches:
   only:
     - master
