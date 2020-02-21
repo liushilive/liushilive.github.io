@@ -11,8 +11,7 @@ addons:
   ssh_known_hosts:
   - gitee.com
 after_success:
-  - git config user.name "liushilive"
-  - git config user.email "liushilive@outlook.com"
+  - rm -rf .git
   - git init
   - git add .
   - git commit -m "Updated By Travis-CI With Build ${TRAVIS_BUILD_NUMBER} For Github Pages"
