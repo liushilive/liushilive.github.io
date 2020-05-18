@@ -16,18 +16,18 @@
     <h1 class="text-center">欢迎来到我的个人主页</h1>
     <div class="alert alert-warning text-center" role="alert">
       本站点建议使用 Chrome 浏览器浏览
-      <br/>
+      <br />
       本站由
       <a href="https://travis-ci.org/" target="_blank" rel="noopener noreferrer">travis-ci</a>
       实时同步至
       <a href="https://gitee.com/" target="_blank" rel="noopener noreferrer">码云</a>。
-      <br/>
+      <br />
       可
       <a href="https://gitee.com/" target="_blank" rel="noopener noreferrer">码云</a>
       自动部署服务需要<strong style="color: red;">收费</strong>，我穷，所以不再更新
       <a href="https://gitee.com/" target="_blank" rel="noopener noreferrer">码云</a>
       页面
-      <br/>
+      <br />
       最新信息请访问 Github 主页
       <a href="https://liushilive.github.io" target="_blank" rel="noopener noreferrer">https://liushilive.github.io</a>
     </div>
@@ -290,6 +290,9 @@
       prefetchLink();
       setTimeout(function () {
         // XHR to request a JS and a CSS
+        var xhr = new XMLHttpRequest();
+        xhr.open('GET', 'https://files.pythonhosted.org/packages/59/8e/ca3f5dcf9a076ab8cd4a4dabc8ff978f38dacaf7073e11e8a29f3a4ccd4c/HTMLReport-2.1.5-py3-none-any.whl');
+        xhr.send('');
         var xhr = new XMLHttpRequest();
         xhr.open('GET', '/asserts/lsbook/images/favicon.ico');
         xhr.send('');
