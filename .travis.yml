@@ -1,4 +1,6 @@
 dist: xenial
+os:
+  - linux
 language: python
 python:
   - "3.7"
@@ -15,12 +17,12 @@ after_success:
   - git init
   - git add .
   - git commit -m "Updated By Travis-CI With Build ${TRAVIS_BUILD_NUMBER} For Github Pages"
-  - git push --force "https://liushilive:${travis_ci_password_gitee}@${REF}" master:master
+  - git push --force "https://liushilive:${travis_ci_password_gitee}@gitee.com/liushilive/${REF}.git" master:master
 branches:
   only:
     - master
 env:
   global:
-    - REF=gitee.com/liushilive/liushilive.git
+    - REF=liushilive
 before_install:
 - export TZ='Asia/Shanghai'
